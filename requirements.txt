@@ -1,0 +1,7 @@
+# Sugerido automaticamente a partir dos imports. Fixar versões com pip freeze.
+pandas
+Pillow
+pytesseract
+selenium
+webdriver-manager
+python-dotenv
