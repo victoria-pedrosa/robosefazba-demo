@@ -1,6 +1,6 @@
-# Robosefazba
+# Demonstração — Emissão de guias na SEFAZ-BA
 
-> Projeto de portfólio de **Victória Pedrosa** (Automação, Processos e Dados). Automação desenvolvida para um escritório de contabilidade; **esta é uma versão com dados fictícios** — nomes, CNPJs, e-mails e IDs internos foram substituídos.
+> Projeto de portfólio de **Victória Pedrosa**. **Demonstração** de emissão de guias na SEFAZ-BA — versão com dados fictícios (nomes, CNPJs, e-mails e IDs internos substituídos).
 
 ## Problema de negócio
 Obter guias na SEFAZ-BA envolvia captcha e acessos repetidos.
